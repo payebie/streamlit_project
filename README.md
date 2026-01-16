@@ -1,3 +1,3 @@
 # streamlit_project
-mon premier projet streamlit
+projet streamlit
 ## streamlit
